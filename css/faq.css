@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+/* faq.css */
+
+
+
+/* section_01 part */
+#section_01{}
+#section_01 .wrap{
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#section_01 .wrap .cont{
+    width: calc((100% / 12 * 10) - 20px);
+    padding-bottom: 40px;
+}
+
+#section_01 .wrap .cont .box{
+    width: 100%;
+    padding: 20px;
+    border: 1px solid var(--main-blue);
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+#section_01 .wrap .cont .box .title{
+    font-weight: normal;
+    color: var(--main-blue);
+    line-height: 1;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+#section_01 .wrap .cont .box .sub{font-size: 14px;}

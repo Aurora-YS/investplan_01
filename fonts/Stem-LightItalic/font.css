@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Stem-LightItalic';
+  src: url('Stem-LightItalic.eot');
+  src: url('Stem-LightItalic.eot?#iefix') format('embedded-opentype'),
+       url('Stem-LightItalic.svg#Stem-LightItalic') format('svg'),
+       url('Stem-LightItalic.ttf') format('truetype'),
+       url('Stem-LightItalic.woff') format('woff'),
+       url('Stem-LightItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

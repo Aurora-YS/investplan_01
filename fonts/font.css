@@ -1,0 +1,145 @@
+@font-face {
+    font-family: 'Stem-Bold';
+    src: url('Stem-Bold/font.css');
+    src: url('Stem-Bold/Stem-Bold.eot');
+    src: url('Stem-Bold/Stem-Bold.eot?#iefix') format('embedded-opentype'),
+         url('Stem-Bold/Stem-Bold.svg#Stem-Bold') format('svg'),
+         url('Stem-Bold/Stem-Bold.ttf') format('truetype'),
+         url('Stem-Bold/Stem-Bold.woff') format('woff'),
+         url('Stem-Bold/Stem-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+@font-face {
+font-family: 'Stem-BoldItalic';
+src: url('Stem-BoldItalic/Stem-BoldItalic.eot');
+src: url('Stem-BoldItalic/Stem-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Stem-BoldItalic/Stem-BoldItalic.svg#Stem-BoldItalic') format('svg'),
+        url('Stem-BoldItalic/Stem-BoldItalic.ttf') format('truetype'),
+        url('Stem-BoldItalic/Stem-BoldItalic.woff') format('woff'),
+        url('Stem-BoldItalic/Stem-BoldItalic.woff2') format('woff2');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Stem-ExtraLight';
+src: url('Stem-ExtraLight/Stem-ExtraLight.eot');
+src: url('Stem-ExtraLight/Stem-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Stem-ExtraLight/Stem-ExtraLight.svg#Stem-ExtraLight') format('svg'),
+        url('Stem-ExtraLight/Stem-ExtraLight.ttf') format('truetype'),
+        url('Stem-ExtraLight/Stem-ExtraLight.woff') format('woff'),
+        url('Stem-ExtraLight/Stem-ExtraLight.woff2') format('woff2');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem-ExtraLightItalic';
+    src: url('Stem-ExtraLightItalic/Stem-ExtraLightItalic.eot');
+    src: url('Stem-ExtraLightItalic/Stem-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+         url('Stem-ExtraLightItalic/Stem-ExtraLightItalic.svg#Stem-ExtraLightItalic') format('svg'),
+         url('Stem-ExtraLightItalic/Stem-ExtraLightItalic.ttf') format('truetype'),
+         url('Stem-ExtraLightItalic/Stem-ExtraLightItalic.woff') format('woff'),
+         url('Stem-ExtraLightItalic/Stem-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem-Hairline';
+    src: url('Stem-Hairline/Stem-Hairline.eot');
+    src: url('Stem-Hairline/Stem-Hairline.eot?#iefix') format('embedded-opentype'),
+         url('Stem-Hairline/Stem-Hairline.svg#Stem-Hairline') format('svg'),
+         url('Stem-Hairline/Stem-Hairline.ttf') format('truetype'),
+         url('Stem-Hairline/Stem-Hairline.woff') format('woff'),
+         url('Stem-Hairline/Stem-Hairline.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem-Italic';
+    src: url('Stem-Italic/Stem-Italic.eot');
+    src: url('Stem-Italic/Stem-Italic.eot?#iefix') format('embedded-opentype'),
+         url('Stem-Italic/Stem-Italic.svg#Stem-Italic') format('svg'),
+         url('Stem-Italic/Stem-Italic.ttf') format('truetype'),
+         url('Stem-Italic/Stem-Italic.woff') format('woff'),
+         url('Stem-Italic/Stem-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem-Light';
+    src: url('Stem-Light/Stem-Light.eot');
+    src: url('Stem-Light/Stem-Light.eot?#iefix') format('embedded-opentype'),
+         url('Stem-Light/Stem-Light.svg#Stem-Light') format('svg'),
+         url('Stem-Light/Stem-Light.ttf') format('truetype'),
+         url('Stem-Light/Stem-Light.woff') format('woff'),
+         url('Stem-Light/Stem-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+@font-face {
+    font-family: 'Stem-LightItalic';
+    src: url('Stem-LightItalic/Stem-LightItalic.eot');
+    src: url('Stem-LightItalic/Stem-LightItalic.eot?#iefix') format('embedded-opentype'),
+         url('Stem-LightItalic/Stem-LightItalic.svg#Stem-LightItalic') format('svg'),
+         url('Stem-LightItalic/Stem-LightItalic.ttf') format('truetype'),
+         url('Stem-LightItalic/Stem-LightItalic.woff') format('woff'),
+         url('Stem-LightItalic/Stem-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem-Medium';
+    src: url('Stem-Medium/Stem-Medium.eot');
+    src: url('Stem-Medium/Stem-Medium.eot?#iefix') format('embedded-opentype'),
+         url('Stem-Medium/Stem-Medium.svg#Stem-Medium') format('svg'),
+         url('Stem-Medium/Stem-Medium.ttf') format('truetype'),
+         url('Stem-Medium/Stem-Medium.woff') format('woff'),
+         url('Stem-Medium/Stem-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem-MediumItalic';
+    src: url('Stem-MediumItalic/Stem-MediumItalic.eot');
+    src: url('Stem-MediumItalic/Stem-MediumItalic.eot?#iefix') format('embedded-opentype'),
+         url('Stem-MediumItalic/Stem-MediumItalic.svg#Stem-MediumItalic') format('svg'),
+         url('Stem-MediumItalic/Stem-MediumItalic.ttf') format('truetype'),
+         url('Stem-MediumItalic/Stem-MediumItalic.woff') format('woff'),
+         url('Stem-MediumItalic/Stem-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem-Regular';
+    src: url('Stem-Regular/Stem-Regular.eot');
+    src: url('Stem-Regular/Stem-Regular.eot?#iefix') format('embedded-opentype'),
+         url('Stem-Regular/Stem-Regular.svg#Stem-Regular') format('svg'),
+         url('Stem-Regular/Stem-Regular.ttf') format('truetype'),
+         url('Stem-Regular/Stem-Regular.woff') format('woff'),
+         url('Stem-Regular/Stem-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem-Thin';
+    src: url('Stem-Thin/Stem-Thin.eot');
+    src: url('Stem-Thin/Stem-Thin.eot?#iefix') format('embedded-opentype'),
+         url('Stem-Thin/Stem-Thin.svg#Stem-Thin') format('svg'),
+         url('Stem-Thin/Stem-Thin.ttf') format('truetype'),
+         url('Stem-Thin/Stem-Thin.woff') format('woff'),
+         url('Stem-Thin/Stem-Thin.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+  

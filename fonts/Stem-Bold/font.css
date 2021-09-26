@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Stem-Bold';
+  src: url('Stem-Bold.eot');
+  src: url('Stem-Bold.eot?#iefix') format('embedded-opentype'),
+       url('Stem-Bold.svg#Stem-Bold') format('svg'),
+       url('Stem-Bold.ttf') format('truetype'),
+       url('Stem-Bold.woff') format('woff'),
+       url('Stem-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

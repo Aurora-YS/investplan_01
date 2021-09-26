@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Stem-Hairline';
+  src: url('Stem-Hairline.eot');
+  src: url('Stem-Hairline.eot?#iefix') format('embedded-opentype'),
+       url('Stem-Hairline.svg#Stem-Hairline') format('svg'),
+       url('Stem-Hairline.ttf') format('truetype'),
+       url('Stem-Hairline.woff') format('woff'),
+       url('Stem-Hairline.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

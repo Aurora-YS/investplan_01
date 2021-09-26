@@ -1,0 +1,115 @@
+@charset "utf-8";
+
+/* login.css */
+
+#section_01{}
+#section_01 .wrap{
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#section_01 .wrap #signin_form{
+    width: 480px;
+    border: 1px solid #d2d2d7;
+    border-radius: 5px;
+    padding: 30px;
+    outline: none;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+#section_01 .wrap #signin_form .txt_box{
+    position: relative;
+}
+#section_01 .wrap #signin_form .txt_box input{
+    width: 400px;
+    height: 56px;
+    padding: 18px 16px 0;
+    font-size: 17px;
+    color: #1d1d1f;
+    border: 1px solid #d2d2d7;
+    border-radius: 10px;
+    margin-bottom: 14px;
+    font-family: 'Stem-Regular';
+}
+#section_01 .wrap #signin_form .txt_box input:focus{
+    box-shadow: 0 0 0 4px rgba(0,125,250,0.6);
+    outline: none;
+}
+#section_01 .wrap #signin_form .txt_box input:focus + label,
+#section_01 .wrap #signin_form .txt_box input:valid + label{
+    top: 9px;
+    font-size: 12px;
+}
+#section_01 .wrap #signin_form .txt_box #signin_id{}
+#section_01 .wrap #signin_form .txt_box #signin_pw{}
+#section_01 .wrap #signin_form .txt_box label{
+    position: absolute;
+    top: 19px;
+    left: 18px;
+    font-size: 17px;
+    color: #919196;
+    font-family: 'Stem-Regular';
+    transition: all 0.3s ease;
+}
+#section_01 .wrap #signin_form .find_id{
+    text-align: right;
+    margin-bottom: 30px;
+}
+#section_01 .wrap #signin_form .find_id a{
+    font-size: 14px;
+    color: #1794d8;
+}
+#section_01 .wrap #signin_form .find_id a:hover{
+    text-decoration: underline;
+}
+#section_01 .wrap #signin_form #signin_submit,
+#section_01 .wrap #signin_form .signin_create_account a{
+    width: 400px;
+    padding: 18px 16px;
+    font-size: 17px;
+    text-transform: uppercase;
+    background-color: var(--main-blue);
+    color: #fff;
+    border-radius: 10px;
+}
+#section_01 .wrap #signin_form #signin_submit{
+    margin-bottom: 25px;
+    border: none;
+    cursor: pointer;
+}
+#section_01 .wrap #signin_form #signin_submit:hover,
+#section_01 .wrap #signin_form .signin_create_account a:hover{
+    background-color: var(--light-gray);
+    color: var(--sub-purple);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#section_01 .wrap #signin_form .signin_create_account{}
+#section_01 .wrap #signin_form .signin_create_account p{
+    text-align: center;
+    position: relative;
+    line-height: 1;
+    margin-bottom: 25px;
+}
+#section_01 .wrap #signin_form .signin_create_account p::before,
+#section_01 .wrap #signin_form .signin_create_account p::after{
+    content: "";
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 25%;
+    height: 0.5px;
+    background-color: var(--light-gray);
+}
+#section_01 .wrap #signin_form .signin_create_account p::before{left: 10px;}
+#section_01 .wrap #signin_form .signin_create_account p::after{right: 10px;}
+#section_01 .wrap #signin_form .signin_create_account a{
+    display: block;
+    text-align: center;
+}
