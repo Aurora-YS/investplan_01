@@ -46,8 +46,18 @@
     top: 9px;
     font-size: 12px;
 }
+
 #section_01 .wrap #signin_form .txt_box #signin_id{}
 #section_01 .wrap #signin_form .txt_box #signin_pw{}
+
+#section_01 .wrap #signin_form .txt_box p{
+    font-size: 12px;
+    line-height: 1;
+    margin: 0 10px 14px;
+    color: #e30000;
+    display: none;
+}
+
 #section_01 .wrap #signin_form .txt_box label{
     position: absolute;
     top: 19px;
