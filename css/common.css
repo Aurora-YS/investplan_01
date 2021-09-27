@@ -58,7 +58,7 @@ a{text-decoration: none;}
     position: absolute;
     top: 0;
     left: -70px;
-    transition: height 0.5s, left 0.5s;
+    transition: all 0.5s;
 }
 #header.fixed header .wrap .logo{
     height: 0;
@@ -93,7 +93,6 @@ a{text-decoration: none;}
     line-height: 70px;
     color: var(--main-gray);
     position: relative;
-    transition: line-height 0.5s;
 }
 #header.fixed header .wrap nav ul li a{line-height: 50px;}
 #header header .wrap nav ul li a::after{
